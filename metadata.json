@@ -1,0 +1,5 @@
+{
+  "name": "GPN Prompt Library",
+  "description": "A lightweight, responsive web application to catalog image generation prompts. It displays 'Before' and 'After' images alongside their corresponding prompts in a modern, filterable, and searchable grid layout. All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
