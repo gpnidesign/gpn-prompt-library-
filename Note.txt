@@ -1,0 +1,15 @@
+PS E:\0.Portable_Software\gpn-prompt-library> git remote add origin https://github.com/gpnidesign/gpn-prompt-library-.git
+PS E:\0.Portable_Software\gpn-prompt-library> git push -u origin master
+
+
+info: please complete authentication in your browser...
+Enumerating objects: 26, done.
+Counting objects: 100% (26/26), done.
+Delta compression using up to 48 threads
+Compressing objects: 100% (25/25), done.
+Writing objects: 100% (26/26), 52.44 KiB | 2.50 MiB/s, done.
+Total 26 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/gpnidesign/gpn-prompt-library-.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+PS E:\0.Portable_Software\gpn-prompt-library> 
