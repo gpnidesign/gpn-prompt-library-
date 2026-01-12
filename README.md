@@ -17,3 +17,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1LwhS7xUaLwNKFT8SgmAZ5m
    `npm run dev`
 
 Test from ME Team
+Typing
